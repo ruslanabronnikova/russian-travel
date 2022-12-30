@@ -21,4 +21,4 @@
 
 **Готовый проект**
 
-*[Ссылка на проект Путешествие по России](https://ruslanabronnikova.github.io/russian-travel/index.html)
+* [Ссылка на проект Путешествие по России](https://ruslanabronnikova.github.io/russian-travel/index.html)
