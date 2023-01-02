@@ -1,9 +1,10 @@
-.cover{
+.cover {
   display: flex;
   flex-direction: column;
   max-width: 1184px;
   margin: 0 auto;
   width: calc(100% - 96px);
+  padding-bottom: 91px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1079px) {
@@ -14,14 +15,14 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .cover{
+  .cover {
     max-width: 768px;
     width: 100%;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .cover{
+  .cover {
     max-width: 320px;
     width: 100%;
   }

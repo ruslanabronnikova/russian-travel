@@ -1,8 +1,8 @@
-.footer__list{
+.footer__list {
   margin-right: 18px;
   text-align: start;
 }
 
-.footer__list:nth-of-type(5n){
+.footer__list:nth-of-type(5n) {
   margin-right: 0;
 }

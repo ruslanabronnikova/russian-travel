@@ -1,4 +1,4 @@
-.header{
+.header {
   display: flex;
   max-width: 1184px;
   justify-content: space-between;
@@ -9,21 +9,19 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1079px) {
-  .header{
+  .header {
     max-width: 928px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .header{
-    max-width: 720px;
+  .header {
     width: calc(100% - 48px);
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .header{
-    max-width: 288px;
+  .header {
     width: calc(100% - 32px);
   }
 }
