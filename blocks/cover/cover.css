@@ -7,21 +7,21 @@
   padding-bottom: 91px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1079px) {
+@media screen and (max-width: 1024px) {
   .cover {
     max-width: 1024px;
     width: 100%;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 768px) {
   .cover {
     max-width: 768px;
     width: 100%;
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 320px) {
   .cover {
     max-width: 320px;
     width: 100%;
