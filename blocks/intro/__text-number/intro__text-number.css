@@ -1,7 +1,7 @@
-.text__list-number {
+.intro__text-number {
   margin: 0;
   font-size: 12px;
-  width: 690px;
+  max-width: 690px;
   line-height: 18px;
   font-weight: 400;
 }

@@ -36,7 +36,7 @@
     margin-top: 64px;
     padding: 0 16px;
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
-    max-width: 288px;
+    max-width: 100%;
     grid-gap: 12px;
     padding: 0;
     padding-left: 16px;

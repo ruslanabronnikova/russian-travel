@@ -1,7 +1,7 @@
-.text__list {
+.intro__text {
   margin: 0;
   font-size: 12px;
-  width: 690px;
+  max-width: 690px;
   line-height: 18px;
   font-weight: 700;
 }
