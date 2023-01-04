@@ -6,7 +6,10 @@
   grid-template-areas:
     'title    website'
     'image     paragraph';
+}
 
+.place:last-child {
+  padding-bottom: 0;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1079px) {
